@@ -1,0 +1,6 @@
+The following commands are available:
+
+    ;Help                                   Show this help
+    ;CreateUser[name,type,status]           Create a new user eg. CreateUser[Joe,Admin,Protected]
+    ;Exit                                   Exit the terminal
+
